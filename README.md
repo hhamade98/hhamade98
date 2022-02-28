@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hussein Hamade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">I am a full-stack developer from New York and I enjoy contributing to the open-source community. I enjoy the process of finding a problem, developing ways to solve it, and then executing on said ways. I find that it helps my creativity and analytical skills.</h3>
 
-## A little bit more about me:
+## A little bit more about myself:
 - 🔭 I’m currently working on [Opal](https://github.com/oslabs-beta/Opal)
 
 - 💬 Ask me about **React, Node, Express**
